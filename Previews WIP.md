@@ -3,9 +3,9 @@
 A list of the skins and weapon attachments shown in the preview images.
 
 **AMCAR with Tenochtitlan skin**
-|Preview|Attachments|
+|Preview|Attachments<img width=500/>|
 |:--|:--|
-|<a href="https://i.imgur.com/yh5299l.jpg"><img src="https://i.imgur.com/yh5299l.jpg" alt="AMCAR with Tenochtitlan skin" height="180"></a>|<img width=500/>• Weapon Skin: [Tenochtitlan (5/7 AP)](https://steamcommunity.com/market/search?q=%225%2F7+AP+PISTOL+%7C+Tenochtitlan%22)<br>• Barrel Ext: Fire Breather Nozzle<br>• Grip: Contractor Grip<br>• Magazine: Speed Pull Magazine<br>• Sight: Military Red Dot Sight<br>• Stock: 2 Piece Stock|
+|<a href="https://i.imgur.com/yh5299l.jpg"><img src="https://i.imgur.com/yh5299l.jpg" alt="AMCAR with Tenochtitlan skin" height="180"></a>|• Weapon Skin: [Tenochtitlan (5/7 AP)](https://steamcommunity.com/market/search?q=%225%2F7+AP+PISTOL+%7C+Tenochtitlan%22)<br>• Barrel Ext: Fire Breather Nozzle<br>• Grip: Contractor Grip<br>• Magazine: Speed Pull Magazine<br>• Sight: Military Red Dot Sight<br>• Stock: 2 Piece Stock|
 
 **CAR-4 with Boreas skin (Cover Image)**
 |Preview|Attachments|
